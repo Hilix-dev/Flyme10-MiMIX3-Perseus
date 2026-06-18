@@ -103,5 +103,3 @@ Nếu bạn gặp tình trạng ứng dụng hệ thống bị văng hoặc treo
 * **Meizu OS Team** vì giao diện Flyme 10 tuyệt vời.
 * **Xiaomi** vì mã nguồn kernel nguồn mở của Mi MIX 3.
 * **CRB Kitchen Team** vì công cụ đóng gói phân vùng tuyệt vời giúp đơn giản hóa quy trình port.
-```bash
-   adb logcat -d > error_log.txt
