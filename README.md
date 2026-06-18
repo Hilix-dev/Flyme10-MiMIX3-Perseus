@@ -99,6 +99,9 @@ Nếu bạn gặp tình trạng ứng dụng hệ thống bị văng hoặc treo
    adb logcat -d > error_log.txt
 ```
 3. Tạo một **Issue** trên kho GitHub này và đính kèm file `error_log.txt` đó lên.
+
+</details>
+
 ## 🤝 Lời cảm ơn (Credits & Acknowledgements)
 * **Meizu OS Team** vì giao diện Flyme 10 tuyệt vời.
 * **Xiaomi** vì mã nguồn kernel nguồn mở của Mi MIX 3.
