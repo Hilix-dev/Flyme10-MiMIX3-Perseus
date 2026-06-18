@@ -44,10 +44,10 @@ Bản ROM Port mang giao diện mượt mà, độc quyền của **Flyme OS 10*
 ## ⚙️ Tình trạng hoạt động (Features Status)
 
 ### ✅ Hoạt động mượt mà (Working)
-* **Kết nối:** Wi-Fi (2.4GHz/5GHz), Bluetooth, Mạng di động 4G/LTE (Nghe gọi, SMS, Data).
+* **Kết nối:** Wi-Fi (2.4GHz/5GHz), Bluetooth, 4G/LTE (Nghe gọi, SMS, Data).
 * **Hiển thị:** Tốc độ làm tươi, độ sáng tự động, chế độ tối (Dark Mode).
 * **Âm thanh:** Loa thoại, loa ngoài, microphone, tai nghe Type-C.
-* **Bảo mật:** Vân tay mặt lưng (nhận diện rất nhạy).
+* **Bảo mật:** Vân tay mặt lưng (Hoạt động nhạy).
 * **Hệ thống:** Khung dịch vụ Core GApps (sau khi cài gói bổ sung).
 
 ### ❌ Lỗi đã biết (Bugs / Known Issues)
