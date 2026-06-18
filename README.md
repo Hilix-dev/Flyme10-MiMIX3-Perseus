@@ -4,7 +4,7 @@
 ![ROM Status](https://img.shields.io/badge/Status-Beta--Port-orange?style=for-the-badge)
 ![Device](https://img.shields.io/badge/Device-Perseus-blue?style=for-the-badge)
 
-Bản ROM Port mang giao diện mượt mượt, độc quyền của **Flyme OS 10** lên chiếc **Xiaomi Mi MIX 3 (Perseus)** trên nền tảng Android 13. Dự án được tối ưu hóa cấu trúc phân quyền hệ thống để đảm bảo tính ổn định cao nhất khi sử dụng hàng ngày.
+Bản ROM Port mang giao diện mượt mà, độc quyền của **Flyme OS 10** lên chiếc **Xiaomi Mi MIX 3 (Perseus)** trên nền tảng Android 13. Dự án được tối ưu hóa cấu trúc phân quyền hệ thống để đảm bảo tính ổn định cao nhất khi sử dụng hàng ngày.
 
 ---
 
