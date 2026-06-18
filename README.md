@@ -50,10 +50,11 @@ Bản ROM Port mang giao diện mượt mà, độc quyền của **Flyme OS 10*
 * **Bảo mật:** Vân tay mặt lưng (Hoạt động nhạy).
 * **Hệ thống:** Khung dịch vụ Core GApps (sau khi cài gói bổ sung).
 
-### ❌ Lỗi đã biết (Bugs / Known Issues)
+### ❌ Lỗi đang tồn tại (Bugs / Known Issues)
 * **Cơ chế trượt (Slider):** Do Flyme không có framework gốc cho camera trượt của Xiaomi, âm thanh khi trượt vật lý chưa hoạt động.
 * **Camera gốc:** App camera mặc định của Flyme có thể bị văng ở chế độ Chân dung (Portrait). 
   * *👉 Giải pháp tạm thời:* Sử dụng **Google Camera (GCam)** để thay thế.
+* **You tell me :))))
 
 ---
 
