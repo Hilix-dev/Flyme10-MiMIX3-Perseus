@@ -32,10 +32,10 @@ Bản ROM Port mang giao diện mượt mượt, độc quyền của **Flyme OS
 <summary>📸 Nhấn vào đây để xem ảnh giao diện ROM</summary>
 
 ### Giao diện chính & Cài đặt
-*Thả ảnh chụp màn hình Homescreen, Settings của bạn vào đây*
+*Hiện tại chưa có*
 
 ### Trình quản lý ứng dụng (Flyme Apps)
-*Thả ảnh chụp màn hình các ứng dụng độc quyền Flyme vào đây*
+*Hiện tại chưa có*
 
 </details>
 
@@ -96,7 +96,6 @@ Nếu bạn gặp tình trạng ứng dụng hệ thống bị văng hoặc treo
 2. Cắm cáp vào máy tính và chạy lệnh:
 ```bash
    adb logcat -d > error_log.txt
-3. Cắm cáp vào máy tính và chạy lệnh:
 ```
 3. Tạo một **Issue** trên kho GitHub này và đính kèm file `error_log.txt` đó lên.
 ## 🤝 Lời cảm ơn (Credits & Acknowledgements)
