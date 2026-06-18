@@ -54,7 +54,7 @@ Bản ROM Port mang giao diện mượt mà, độc quyền của **Flyme OS 10*
 * **Cơ chế trượt (Slider):** Do Flyme không có framework gốc cho camera trượt của Xiaomi, âm thanh khi trượt vật lý chưa hoạt động.
 * **Camera gốc:** App camera mặc định của Flyme có thể bị văng ở chế độ Chân dung (Portrait). 
   * *👉 Giải pháp tạm thời:* Sử dụng **Google Camera (GCam)** để thay thế.
-* **You tell me :))))
+* **You tell me :))))**
 
 ---
 
