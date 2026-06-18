@@ -84,7 +84,7 @@ Bản ROM Port mang giao diện mượt mượt, độc quyền của **Flyme OS
 
 ## 📥 Tải về (Downloads)
 
-* 🔴 [**Tải xuống file ROM ZIP (SourceForge)**](http://sourceforge.net/p/flyme-10-for-mi-mix-3-perseus)
+* 🔴 [**Tải xuống file ROM ZIP (SourceForge)**](https://sourceforge.net/projects/flyme-10-for-mi-mix-3-perseus/files/Flyme10_Perseus.zip/download)
 * 🟡 [**Tải xuống gói Google Core GApps (NikGApps)**](https://nikgapps.com)
 * 🟢 [**Tải xuống bản GCam tối ưu cho Mi MIX 3**](https://www.celsoazevedo.com/files/android/google-camera/)
 
@@ -97,5 +97,11 @@ Nếu bạn gặp tình trạng ứng dụng hệ thống bị văng hoặc treo
 ```bash
    adb logcat -d > error_log.txt
 3. Cắm cáp vào máy tính và chạy lệnh:
+```
+3. Tạo một **Issue** trên kho GitHub này và đính kèm file `error_log.txt` đó lên.
+## 🤝 Lời cảm ơn (Credits & Acknowledgements)
+* **Meizu OS Team** vì giao diện Flyme 10 tuyệt vời.
+* **Xiaomi vì mã nguồn kernel nguồn mở của Mi MIX 3.
+* **CRB Kitchen Team vì công cụ đóng gói phân vùng tuyệt vời giúp đơn giản hóa quy trình port.
 ```bash
    adb logcat -d > error_log.txt
