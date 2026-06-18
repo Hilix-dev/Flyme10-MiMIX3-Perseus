@@ -1,4 +1,5 @@
-![Uploading ChatGPT Image Jun 18, 2026, 10_24_51 PM.png…]()
+<img width="1678" height="937" alt="ChatGPT Image Jun 18, 2026, 10_24_51 PM" src="https://github.com/user-attachments/assets/825950f3-050b-4cff-b1e3-d3e74000a8b2" />
+
 # Flyme 10 for Xiaomi Mi MIX 3 (Perseus)
 
 ![Android Version](https://img.shields.io/badge/Android-13--33-green?style=for-the-badge&logo=android)
