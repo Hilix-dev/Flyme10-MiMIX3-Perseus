@@ -76,7 +76,7 @@ Bản ROM Port mang giao diện mượt mà, độc quyền của **Flyme OS 10*
 2. **Format bộ nhớ:** Vào `Wipe` -> Chọn `Format Data` -> Gõ `yes` và ấn dấu tick xanh.
 3. **Khởi động lại TWRP:** Vào `Reboot` -> Chọn `Recovery` (Bước này giúp TWRP nhận diện lại phân vùng vừa format).
 4. **Xóa phân vùng cũ:** Vào `Wipe` -> `Advanced Wipe` -> Tích chọn `Dalvik / ART Cache`, `Cache`, `System`, `Data` -> Kéo thanh trượt để Wipe.
-5. **Chép file ROM:** Cắm cáp kết nối với máy tính, chép file `Flyme10_Perseus.zip` vào bộ nhớ máy (hoặc dùng USB OTG).
+5. **Chép file ROM:** Cắm cáp kết nối với máy tính, chép file `Flyme10_Perseus_TWRP.zip` vào bộ nhớ máy (hoặc dùng USB OTG).
 6. **Flash ROM:** Vào `Install` -> Chọn file ROM `.zip` -> Kéo thanh trượt để tiến hành nạp hệ thống.
 7. **Cài đặt Google (Tùy chọn):** Nếu dùng gói Google rời, flash tiếp file `NikGApps-core-13.zip` ngay sau khi flash ROM.
 8. **Khởi động:** Bấm `Reboot System` và kiên nhẫn chờ từ 10-15 phút.
@@ -87,7 +87,7 @@ Bản ROM Port mang giao diện mượt mà, độc quyền của **Flyme OS 10*
 
 ## 📥 Tải về (Downloads)
 
-* 🔴 [**Tải xuống file ROM ZIP (SourceForge)**](https://sourceforge.net/projects/flyme-10-for-mi-mix-3-perseus/files/Flyme10_Perseus.zip/download)
+* 🔴 [**Tải xuống file ROM ZIP (SourceForge)**](https://sourceforge.net/projects/flyme-10-for-mi-mix-3-perseus/files/Flyme10_Perseus_TWRP.zip/download)
 * 🟡 [**Tải xuống gói Google Core GApps (NikGApps)**](https://nikgapps.com)
 * 🟢 [**Tải xuống bản GCam tối ưu cho Mi MIX 3**](https://www.celsoazevedo.com/files/android/google-camera/)
 
