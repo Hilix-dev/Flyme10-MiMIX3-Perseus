@@ -102,6 +102,8 @@ Nếu bạn gặp tình trạng ứng dụng hệ thống bị văng hoặc treo
 
 </details>
 
+---
+
 ## 🤝 Lời cảm ơn (Credits & Acknowledgements)
 * **Meizu OS Team** vì giao diện Flyme 10 tuyệt vời.
 * **Xiaomi** vì mã nguồn kernel nguồn mở của Mi MIX 3.
